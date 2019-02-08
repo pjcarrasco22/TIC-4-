@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3713"
+   width="289"
+   height="174"
+   viewBox="0 0 289 174"
+   sodipodi:docname="exmouth.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3719">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3717" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview3715"
+     showgrid="false"
+     inkscape:zoom="3.9965398"
+     inkscape:cx="144.5"
+     inkscape:cy="87"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3713" />
+  <rect
+     style="fill:#000080"
+     id="rect3725"
+     width="250.46666"
+     height="135.3671"
+     x="11.009526"
+     y="8.606926" />
+  <path
+     style="fill:#f9f9f9;stroke:#000000;stroke-width:1.00574005px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 163.28598,40.700158 h -9.81367 c -10.70325,-4.569155 -15.52846,-10.67535 -24.40834,-12.835332 0.68592,7.739741 7.41604,12.960635 16.10447,17.365454 -9.96964,5.192009 -11.98729,11.00322 -16.3561,16.862095 10.06528,-3.020083 18.11753,-7.046849 24.1567,-12.080312 l 9.81364,-0.251676 C 160.94792,70.418303 145.6676,79.226784 128.05745,80.464507 114.6899,78.4712 97.035887,72.773405 93.583831,44.726926 94.303147,27.949588 102.90471,15.226633 127.05093,10.499383 c 26.6664,1.40385 30.27149,16.502598 36.23505,30.200775 z"
+     id="path3723"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+     x="69.810387"
+     y="104.94026"
+     id="text3735"><tspan
+       sodipodi:role="line"
+       id="tspan3733"
+       x="69.810387"
+       y="104.94026">exmouth fish co.</tspan></text>
+</svg>
